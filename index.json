@@ -1,8 +1,32 @@
 [
   {
     categoryID:"1",
-    categoryName:"Marketing",
-    totalCourses:"17",
-    image:""
+    categoryName:"Bottle Temperature",
+    totalCourses:"Tap to have a view of your MILKPO temperature",
+    image:"https://github.com/HongduoXu/MilkPO/blob/main/51122-temperature.gif"
+  },
+  {
+    categoryID:"2",
+    categoryName:"Gifts for Kids",
+    totalCourses:"How should I prepare for my kids",
+    image:"https://github.com/HongduoXu/MilkPO/blob/main/41981-christmas-gift-01.gif"
+  },
+  {
+    categoryID:"3",
+    categoryName:"Alone Kid",
+    totalCourses:"Never leave your kid alone",
+    image:"https://github.com/HongduoXu/MilkPO/blob/main/38169-losing-ballon.gif"
+  },
+  {
+    categoryID:"4",
+    categoryName:"Games",
+    totalCourses:"He is playing games, should I??",
+    image:"https://github.com/HongduoXu/MilkPO/blob/main/38919-ps5-custom-twitter-heart.gif"
+  },
+  {
+    categoryID:"5",
+    categoryName:"Data",
+    totalCourses:"Record your data",
+    image:"https://github.com/HongduoXu/MilkPO/blob/main/30723-data-animation.gif"
   }
 ]
