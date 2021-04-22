@@ -28,5 +28,11 @@
     categoryName:"Data",
     totalCourses:"Record your data",
     image:"https://github.com/HongduoXu/MilkPO/blob/main/30723-data-animation.gif"
+  },
+  {
+    categoryID:"6",
+    categoryName:"LOvE",
+    totalCourses:"love your kids, love your families, and love yourselves",
+    image:"https://github.com/HongduoXu/MilkPO/blob/main/52304-women-day-flower-delivery.gif"
   }
 ]
