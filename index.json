@@ -1,38 +1,38 @@
 [
   {
     "categoryID":"1",
-    "categoryName":"Bottle Temperature",
+    "categoryName":"MilkPO Temperature",
     "totalCourses":"Tap to have a view of your MILKPO temperature",
-    "image":"https://github.com/HongduoXu/MilkPO/blob/main/51122-temperature.gif"
+    "image":"https://github.com/HongduoXu/MilkPO/blob/main/MilkPO%E6%B8%A9%E5%BA%A6.png"
   },
   {
     "categoryID":"2",
-    "categoryName":"Gifts for Kids",
-    "totalCourses":"How should I prepare for my kids",
-    "image":"https://github.com/HongduoXu/MilkPO/blob/main/41981-christmas-gift-01.gif"
+    "categoryName":"Time for Feed",
+    "totalCourses":"When should I feed my kid",
+    "image":"https://github.com/HongduoXu/MilkPO/blob/main/%E6%88%91%E7%9A%84%E8%AE%A1%E5%88%92.png"
   },
   {
     "categoryID":"3",
-    "categoryName":"Alone Kid",
-    "totalCourses":"Never leave your kid alone",
-    "image":"https://github.com/HongduoXu/MilkPO/blob/main/38169-losing-ballon.gif"
+    "categoryName":"Connect MilkPO",
+    "totalCourses":"Connect my MilkPO",
+    "image":"https://github.com/HongduoXu/MilkPO/blob/main/%E8%BF%9E%E6%8E%A5%E5%88%B0%E6%88%91%E7%9A%84%E8%AE%BE%E5%88%AB.png"
   },
   {
     "categoryID":"4",
-    "categoryName":"Games",
-    "totalCourses":"He is playing games, should I??",
-    "image":"https://github.com/HongduoXu/MilkPO/blob/main/38919-ps5-custom-twitter-heart.gif"
+    "categoryName":"Data Reminding",
+    "totalCourses":"data basement",
+    "image":"https://github.com/HongduoXu/MilkPO/blob/main/%E8%AE%B0%E5%BD%95%E6%88%91%E7%9A%84%E6%95%B0%E6%8D%AE.png"
   },
   {
     "categoryID":"5",
-    "categoryName":"Data",
-    "totalCourses":"Record your data",
-    "image":"https://github.com/HongduoXu/MilkPO/blob/main/30723-data-animation.gif"
+    "categoryName":"Community",
+    "totalCourses":"News & Developments & share",
+    "image":"https://github.com/HongduoXu/MilkPO/blob/main/Community.png"
   },
   {
     "categoryID":"6",
-    "categoryName":"LOvE",
-    "totalCourses":"love your kids, love your families, and love yourselves",
-    "image":"https://github.com/HongduoXu/MilkPO/blob/main/52304-women-day-flower-delivery.gif"
+    "categoryName":"Shopping",
+    "totalCourses":"Get more device for your Kids",
+    "image":"https://github.com/HongduoXu/MilkPO/blob/main/%E8%B4%AD%E7%89%A9Shopping.png"
   }
 ]
