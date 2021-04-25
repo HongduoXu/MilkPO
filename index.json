@@ -34,5 +34,17 @@
     "categoryName":"Shopping",
     "totalCourses":"Get more device for your Kids",
     "image":"https://raw.githubusercontent.com/HongduoXu/MilkPO/master/shopping.jpg"
+  },
+  {
+    "categoryID":"7",
+    "categoryName":"Photo",
+    "totalCourses":"Record every step of your kids",
+    "image":"https://raw.githubusercontent.com/HongduoXu/MilkPO/master/photo.jpg"
+  },
+  {
+    "categoryID":"8",
+    "categoryName":"Accompany",
+    "totalCourses":"Accompany & share",
+    "image":"https://raw.githubusercontent.com/HongduoXu/MilkPO/master/recordchildstep.jpg"
   }
 ]
