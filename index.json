@@ -46,5 +46,11 @@
     "categoryName":"Accompany",
     "totalCourses":"Accompany & share",
     "image":"https://raw.githubusercontent.com/HongduoXu/MilkPO/master/recordchildstep.jpg"
+  },
+  {
+    "categoryID":"9",
+    "categoryName":"Accompany",
+    "totalCourses":"Accompany & share",
+    "image":"https://raw.githubusercontent.com/HongduoXu/MilkPO/master/accompany.jpg"
   }
 ]
