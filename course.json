@@ -1,0 +1,19 @@
+[{
+    "courseName":"Design Thinking",
+    "rating":"4.2",
+    "bestSellers":"true",
+    "member":"18k",
+    "playList":[{
+        "name":"Welcome to the course",
+        "time":"5.35mins"
+    },{
+        "name":"Design thinking - intro",
+        "time":"5.35mins"
+    },{
+        "name":"Design thinking process",
+        "time":"5.35mins"
+    },{
+        "name":"Customer prespective",
+        "time":"5.35mins"
+    }]
+}]
